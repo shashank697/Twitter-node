@@ -1,0 +1,31 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Twitter Demo (Build a twitter API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Shashank Krishna Naik",
+  "license": "",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.19.0",
+    "core-util-is": "^1.0.2",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^4.13.21",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
