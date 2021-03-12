@@ -1,7 +1,7 @@
 {
   "name": "rest-shop",
   "version": "1.0.0",
-  "description": "A Node.js RESTful API Twitter Demo (Build a twitter API)",
+  "description": "A Node.js RESTful API Twitter Demo (Building a twitter API)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
